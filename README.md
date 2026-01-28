@@ -14,6 +14,7 @@
 - Stop using singletons (there's only one, but it's nasty)
 - Divide many classes into more sub-classes
 - Modularity.
+- FINISH IT. 
 
 ## THIRD-PARTY ASSETS
 - Assets will be listed here soon...
